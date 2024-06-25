@@ -1,2 +1,0 @@
---this is a sample query
--- this query is being changed for testing on 25 jun 2024
